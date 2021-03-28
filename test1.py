@@ -40,6 +40,7 @@ e = d.pop(3)           #相当于剪切，取出数组中的某个值
 print(e)
 d.extend(['hhh','996',0])  #在数组后添加数组
 print(d)
-d.remove('hhh')        #删除某值 
+d.remove('996‘)        #删除某值 
 
-print({})      #字典dict；
+
+# print({})      #字典dict；
