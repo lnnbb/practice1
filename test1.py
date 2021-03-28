@@ -42,5 +42,4 @@ d.extend(['hhh','996',0])  #在数组后添加数组
 print(d)
 d.remove('996')        #删除某值 
 
-
-# print({})      #字典dict；
+print({})      #字典dict；
